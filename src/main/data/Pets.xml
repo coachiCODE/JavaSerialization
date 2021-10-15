@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Pet>
+    <birth_date>02/10/1999</birth_date>
+    <gender>Male</gender>
+    <name>test1</name>
+    <uniqueID>A001</uniqueID>
+    <weight>5.0</weight>
+</Pet>
