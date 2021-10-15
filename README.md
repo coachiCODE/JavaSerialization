@@ -4,9 +4,7 @@ XML vs. Message Pack Serialization Comparison
 
 XML(Extensible Markup Language) - Text Format
 
-XML is a markup language much like HTML
-XML was designed to store and transport data
-XML was designed to be both human and machine-readable.
+XML is a markup language much like HTML, was designed to store and transport data and to be both human and machine-readable.
 
 Message Pack - Binary Format 
 
